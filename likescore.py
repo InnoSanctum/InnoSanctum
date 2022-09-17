@@ -174,7 +174,7 @@ def count_likescore(s1: str, s2: str, dic: List[Classes.classes.dic_article]) ->
                 score -= 25
     
     
-    staging_dic: List[classes.dic_article] = dic.copy()
+    staging_dic: List[Classes.classes.dic_article] = dic.copy()
     #staging_dic: List[classes.dic_article] = []
     
     #for art in edic: ## build the temporary dic out of the words available in source using pre-buit dictionary
