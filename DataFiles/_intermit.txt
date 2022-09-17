@@ -1,0 +1,1 @@
+[canon_product(p_cat='', p_scat='', p_name='', url='')]
